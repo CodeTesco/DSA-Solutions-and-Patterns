@@ -1,4 +1,4 @@
-# LC 3653 - Xor After Range Multiplication Queries I
+# LC 3653 - XOR After Range Multiplication Queries I
 
 Here I attempt to explain my solution to LC problem #3653.
 
