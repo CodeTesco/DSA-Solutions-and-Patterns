@@ -58,3 +58,11 @@ class Solution:
             half1.next = half2 # link current half1 node to current half2 node
             half2.next = tmp1 # link current half2 node back to the next half1 node
             half1, half2 = tmp1, tmp2 # move both forward to continue the merge
+
+**Example 1:**
+> **Input:** `head = [1,2,3,4]`
+> **Output:** `[1,4,2,3]`
+
+**Example 2:**
+> **Input:** `head = [2,4,6,8,10]`
+> **Output:** `[2,10,4,8,6]`
